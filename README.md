@@ -1,2 +1,2 @@
-# eway-crm-workflow-actions
-eWay-CRM Workflow Actions Templates
+# eWay-CRM Workflow Actions Templates
+This project contains templates of [workflow actions](https://kb.eway-crm.com/documentation/5-administration-application/5-11-workflow-diagrams/5-10-actions/common-principles-of-work-with-actions) that can be imported through eWay-CRM Administration.
